@@ -1,0 +1,9 @@
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\bin\Debug\GenericHearingAid_Controller.exe
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\bin\Debug\GenericHearingAid_Controller.pdb
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\obj\Debug\GenericHearingAid_Controller.AboutBox.resources
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\obj\Debug\GenericHearingAid_Controller.Form1.resources
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\obj\Debug\GenericHearingAid_Controller.Properties.Resources.resources
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\obj\Debug\GenericHearingAid_Controller.csproj.GenerateResource.Cache
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\obj\Debug\GenericHearingAid_Controller.exe
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\obj\Debug\GenericHearingAid_Controller.pdb
