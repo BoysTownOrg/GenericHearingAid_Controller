@@ -1,0 +1,11 @@
+C:\Users\rasdan\Documents\GitHub\CoolAidGUI\MHA\bin\Debug\MHA.exe
+C:\Users\rasdan\Documents\GitHub\CoolAidGUI\MHA\bin\Debug\MHA.pdb
+C:\Users\rasdan\Documents\GitHub\CoolAidGUI\MHA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rasdan\Documents\GitHub\CoolAidGUI\MHA\obj\Debug\MHA.AboutBox.resources
+C:\Users\rasdan\Documents\GitHub\CoolAidGUI\MHA\obj\Debug\MHA.Form1.resources
+C:\Users\rasdan\Documents\GitHub\CoolAidGUI\MHA\obj\Debug\MHA.Properties.Resources.resources
+C:\Users\rasdan\Documents\GitHub\CoolAidGUI\MHA\obj\Debug\GHA_Controller.csproj.GenerateResource.Cache
+C:\Users\rasdan\Documents\GitHub\CoolAidGUI\MHA\obj\Debug\MHA.exe
+C:\Users\rasdan\Documents\GitHub\CoolAidGUI\MHA\obj\Debug\MHA.pdb
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\obj\Debug\MHA.exe
+C:\Users\rasdan\Documents\GitHub\GenericHearingAid_Controller\GenericHearingAid_Controller\obj\Debug\MHA.pdb
